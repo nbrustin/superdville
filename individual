@@ -1,0 +1,14 @@
+<div class="card-wrap col-xs-12 col-md-6" style="margin: auto;">
+  <div class="card subscription-card">
+    <div class="card-content">
+      <img src="/wp-content/uploads/2019/09/logo@2x.png">
+        <h3 class="color-neutralDark">Individual Subscription</h3>
+        <h1>$250</h1>
+        <span><b>per year</b></span>
+    </div>
+    <div class="card-cta">
+      <a href="/register/individual/"><button class="btn">Subscribe</button></a>
+    </div>
+  </div>
+ </div>
+               

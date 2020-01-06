@@ -1,0 +1,32 @@
+/* Subscription Cards*/
+.subscription-card {
+	border: 2px solid #006a95;
+	border-radius: 4px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.subscription-card img {
+	max-width: 100%;
+}
+
+.subscription-card h1 {
+	margin: 0;
+}
+
+.subscription-card .card-content {
+	margin: 20px 0;
+}
+
+.subscription-card .card-cta {
+	padding: 0 0 40px;
+}
+
+.subscription-card .btn {
+	height: 54px;
+	line-height: 54px;
+	width: 230px;
+	max-width: 90%;
+	border: 1px solid #2fb2e6;
+}
+
